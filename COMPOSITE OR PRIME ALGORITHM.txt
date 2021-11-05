@@ -1,0 +1,7 @@
+1) find whether the number is prime or composite 
+2) accept a number( greater than two )
+3) initialize counter with value two 
+4) divide the number with counter value 
+5) if the remainder is zero , display that the positive number is composite and stop 
+6) else impliment the counter if the remainder is not zero and repeat from step 4 
+7) after completion of all the steps display that the number 'n' is prime 
