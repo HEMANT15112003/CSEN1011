@@ -1,0 +1,5 @@
+1. Start
+2. Accept the two numbers
+3. Add the two numbers
+4. Display the result
+5. Stop
