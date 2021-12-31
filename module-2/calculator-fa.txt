@@ -1,0 +1,4 @@
+01. Start
+02. Accept a, b (integers) amd an op (operator)  .
+03. Based on the operator use switch case
+04. Stop
